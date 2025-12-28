@@ -1,0 +1,27 @@
+# Real-Time Investor - Python Dependencies
+
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# WebSocket support (for future real implementation)
+# websockets>=12.0
+# websocket-client>=1.6.0
+
+# Technical analysis libraries (for future implementation)
+# ta-lib>=0.4.0  # Requires separate TA-Lib C library installation
+# pandas-ta>=0.3.14b
+
+# Data visualization (optional)
+# matplotlib>=3.7.0
+# plotly>=5.14.0
+
+# Development dependencies
+# pytest>=7.4.0
+# pytest-cov>=4.1.0
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.4.0
