@@ -48,9 +48,4 @@ setup(
             "mypy>=1.4.0",
         ],
     },
-    entry_points={
-        "console_scripts": [
-            "rti-example=examples.basic_usage:main",
-        ],
-    },
 )
